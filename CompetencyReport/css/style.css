@@ -1,0 +1,22 @@
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.header-title h1{
+    color: rgb(214, 6, 110);
+  
+}
+
+#result{
+    font-size: 0.8rem;
+    color:rgb(73, 73, 73);
+    background-color: lightgrey;
+    width: 100%;
+    padding-top: 20px;
+    
+   
+}
